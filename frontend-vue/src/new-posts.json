@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "Commodo vero odio ip",
+      "image": "Nulla ipsum aut ipsu",
+      "description": "Irure non lorem non ",
+      "publishedDate": "1998-03-22",
+      "id": 2
+    },
+    {
+      "title": "Accusamus assumenda ",
+      "image": "Nihil repellendus Q",
+      "description": "Quia ut duis cumque ",
+      "publishedDate": "1971-11-04",
+      "id": 3
+    },
+    {
+      "title": "Odit nostrum maxime ",
+      "image": "Magni aliquid aute e",
+      "description": "Iste placeat illum",
+      "publishedDate": "2005-04-25",
+      "id": 4
+    },
+    {
+      "title": "Number two Voluptas laborum sun",
+      "image": "Number two  Aspernatur odit aspe",
+      "description": "Number two  Hic ipsum natus exe",
+      "publishedDate": "2022-08-29",
+      "id": 5
+    }
+  ]
+}
