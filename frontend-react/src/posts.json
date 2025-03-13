@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "Commodo vero odio ip",
+      "image": "Nulla ipsum aut ipsu",
+      "description": "Irure non lorem non ",
+      "publishedDate": "1998-03-22",
+      "id": 1
+    },
+    {
+      "title": "Illum incidunt per",
+      "image": "Quae voluptatum ut i",
+      "description": "Corrupti aspernatur",
+      "publishedDate": "2013-11-08",
+      "id": 2
+    }
+  ]
+}
